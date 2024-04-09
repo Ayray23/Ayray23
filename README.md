@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayray23
-- 👀 I’m interested in mobile app development 
-- 🌱 I’m currently learning flutter 
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me 09046919306
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
